@@ -1,0 +1,1 @@
+var json_Meta_6 = {"type":"FeatureCollection","name":"Meta_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[-0.906034404915357,39.620331613609132]}}]}

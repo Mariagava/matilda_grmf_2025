@@ -1,0 +1,1 @@
+var json_Salida_5 = {"type":"FeatureCollection","name":"Salida_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"0"},"geometry":{"type":"Point","coordinates":[-0.906049628164952,39.62040620608488]}}]}
